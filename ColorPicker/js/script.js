@@ -1,5 +1,3 @@
-// console.log(document.querySelector('#colorPicker').value);
-
 const text = document.querySelector('#colorText');
 const color = document.querySelector('#colorPicker');
 
